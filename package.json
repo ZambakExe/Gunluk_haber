@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "youtube-dl-exec": "^3.0.6"
+  }
+}
